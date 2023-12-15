@@ -11,10 +11,10 @@ Unit Sold by Products
 ![](UnitSoldbyProducts.png)
 Profit by Countries and Product
 ![](profitbycountriesandproduc.png)
+
 The dashboard was created using pivot tables, a powerful tool for summarizing and analyzing data. Pivot tables allow you to quickly and easily create interactive charts and graphs that can be used to track trends and identify areas for improvement.
 
  # The dashboard was created using the following steps:
-
 Import the data into Excel.
 Create a pivot table.
 Add the desired fields to the pivot table.
