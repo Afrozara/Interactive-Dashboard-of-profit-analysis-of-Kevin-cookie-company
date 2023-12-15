@@ -1,4 +1,7 @@
  # Interactive-Dashboard-of-profit-analysis-of-Kevin-cookie-company
+ # Background of Kevin's company
+ Kevin Company is a multinational corporation founded in 1995. It operates in technology, manufacturing, and services known for its innovation and cutting-edge technology. The company is also involved in philanthropic activities and has a strong commitment to making a positive impact.
+
 # Kevin's company report
 This report informs us about the insights of budget, profit, and countries from where the maximum customers invest in the product of the company. The tool Powerbi, visualizes and handles distorted and missing data, converts it into a machine-friendly format, and provides accurate results based on the company's performance. This project involved creating a dashboard in Excel using pivot tables to track the performance of Kevin Cookie Company's products in different markets. The data included the country name, product category, and monthly profit. 
 
