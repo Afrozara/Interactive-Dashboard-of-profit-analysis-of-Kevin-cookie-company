@@ -1,12 +1,16 @@
-# Interactive-Dashboard-of-profit-analysis-of-Kevin-cookie-company
+ # Interactive-Dashboard-of-profit-analysis-of-Kevin-cookie-company
 # Kevin's company report
 This report informs us about the insights of budget, profit, and countries from where the maximum customers invest in the product of the company. The tool Powerbi, visualizes and handles distorted and missing data, converts it into a machine-friendly format, and provides accurate results based on the company's performance. This project involved creating a dashboard in Excel using pivot tables to track the performance of Kevin Cookie Company's products in different markets. The data included the country name, product category, and monthly profit. 
 
 # The dashboard was designed to provide insights into the following key performance :
 Profit by Months 
+![](profitbymonth.png)
 Unit Sold by Months (trend)
+![](unitsoldbymonths.png)
 Unit Sold by Products
+![](UnitSoldbyProducts.png)
 Profit by Countries and Product
+![](profitbycountriesandproduc.png)
 The dashboard was created using pivot tables, a powerful tool for summarizing and analyzing data. Pivot tables allow you to quickly and easily create interactive charts and graphs that can be used to track trends and identify areas for improvement.
 
  # The dashboard was created using the following steps:
