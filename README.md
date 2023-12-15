@@ -7,8 +7,7 @@ Profit by Months
 Unit Sold by Months (trend)
 Unit Sold by Products
 Profit by Countries and Product
-
-The dashboard was created using pivot tables, which are a powerful tool for summarizing and analyzing data. Pivot tables allow you to quickly and easily create interactive charts and graphs that can be used to track trends and identify areas for improvement.
+The dashboard was created using pivot tables, a powerful tool for summarizing and analyzing data. Pivot tables allow you to quickly and easily create interactive charts and graphs that can be used to track trends and identify areas for improvement.
 
  # The dashboard was created using the following steps:
 
@@ -18,6 +17,5 @@ Add the desired fields to the pivot table.
 Format the pivot table to make it visually appealing.
 Create charts and graphs to visualize the data.
 The dashboard was completed and met all of the project goals.
-
-The dashboard has helped us better understand their products' performance in different markets. This information has been used to make informed decisions about product pricing, marketing, and distribution. As a result, the company has seen an increase in sales and profits.
+The dashboard has helped us better understand their products' performance in different markets. This information has been used to make informed product pricing, marketing, and distribution decisions. As a result, the company has seen an increase in sales and profits.
 
