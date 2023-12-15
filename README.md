@@ -5,13 +5,13 @@ This report informs us about the insights of budget, profit, and countries from 
 # The dashboard was designed to provide insights into the following key performance :
 
 Profit by Months 
-![](profitbymonth.png)
+![](Reasorces/profitbymonth.png)
 Unit Sold by Months (trend)
-![](unitsoldbymonths.png)
+![](Reasorces/unitsoldbymonths.png)
 Unit Sold by Products
-![](UnitSoldbyProducts.png)
+![](Reasorces/UnitSoldbyProducts.png)
 Profit by Countries and Product
-![](profitbycountriesandproduc.png)
+![](Reasorces/profitbycountriesandproduc.png)
 
 The dashboard was created using pivot tables, a powerful tool for summarizing and analyzing data. Pivot tables allow you to quickly and easily create interactive charts and graphs that can be used to track trends and identify areas for improvement.
 
